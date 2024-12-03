@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/halloween-react/static/css/main.e6c13ad2.css",
+    "main.js": "/halloween-react/static/js/main.36e0910a.js",
+    "static/js/453.e172b073.chunk.js": "/halloween-react/static/js/453.e172b073.chunk.js",
+    "index.html": "/halloween-react/index.html",
+    "main.e6c13ad2.css.map": "/halloween-react/static/css/main.e6c13ad2.css.map",
+    "main.36e0910a.js.map": "/halloween-react/static/js/main.36e0910a.js.map",
+    "453.e172b073.chunk.js.map": "/halloween-react/static/js/453.e172b073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.36e0910a.js"
+  ]
+}
